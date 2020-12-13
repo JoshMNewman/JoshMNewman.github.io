@@ -1,0 +1,52 @@
+/* color pallete: 
+Blues: #0f535C, 324b4f, 95b0b5
+Browns: #634431, #987560
+Purple: #753654 
+Darkest blue: #00242C
+Light Text: #f1f1e6*/
+
+/* section styles */
+
+.section-one {
+  background-color: #0f535c;
+  color: #ffffff;
+  padding: 0.5%;
+  /* border: 1px, #f0f0f0; */
+} 
+
+/* heading styles */
+
+h1 {
+  background-color: darkcyan;
+  color: azure;
+  text-align: center;
+  font-size: 40px;
+  padding: 1%;
+  margin: unset;
+}
+
+h2 {
+  /* background-color: dodgerblue; */
+}
+
+a {
+  color: azure;
+}
+
+/* paragraph styles */
+
+#intro-para {
+  background-color: #324b4f;
+  color: azure;
+  text-align: center;
+  text-decoration: gold;
+  font-style: italic;
+  padding: 0.9%;
+  margin: 1px;
+}
+
+/* body style */
+
+body {
+  background-color: #95b0b5;
+}
