@@ -25,6 +25,15 @@ Light Text: #f1f1e6*/
   margin-right: 5%;
 } 
 
+.section-three {
+  background-color: #8f8f8f;
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+} 
+
 /* heading styles */
 
 h1 {
@@ -35,6 +44,11 @@ h1 {
   font-size: 40px;
   padding: 1%;
   margin: 1em 1em 0.05em;
+}
+
+h2 {
+  text-align: center;
+  margin: .5em auto 2em;
 }
 
 a {
@@ -56,4 +70,15 @@ a {
 
 body {
   background-color: #ffffff;
+}
+
+/* table styles */
+
+table {
+  text-align: center;
+  margin: 5% auto;
+}
+
+.progress-bar {
+  background: yellow;
 }
