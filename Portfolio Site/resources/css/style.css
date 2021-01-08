@@ -21,6 +21,20 @@ Light Text: #f1f1e6*/
   margin-right: 5%;
 } 
 
+.section:hover {
+  background-color: #8f8f8f;
+  border-radius: 5px;
+  border-color: #0f535C;
+  border-width: .99em;
+  border-style: solid;
+  box-shadow: 3px 3px 2px 2px rgba(15, 83, 92, 0.536);
+  color: #ffffff;
+  padding: .5%;
+  padding-left: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 /* .section-two {
   background-color: #8f8f8f;
   border-radius: 5px;
